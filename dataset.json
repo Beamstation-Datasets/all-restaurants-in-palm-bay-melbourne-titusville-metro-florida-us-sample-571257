@@ -1,0 +1,22 @@
+{
+  "base_price": 3750,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Complete restaurant census for the Palm Bay-Melbourne-Titusville (Metro), Florida metro, covering Palm Bay, Melbourne, and Titusville. Spans multiple municipalities within a mid-size metropolitan dining market. Filtered by the Restaurants category group with business profiles, sentiment data, review trends, and competitive benchmarks. Refreshed weekly.",
+  "config_name": "All Restaurants in Palm Bay-Melbourne-Titusville (Metro), Florida, US",
+  "export_job_id": "2a04c7c1-cac9-4933-b209-b1a162d33904",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 571257,
+  "location_name": "Palm Bay-Melbourne-Titusville, FL",
+  "location_type": "metro",
+  "repo_name": "all-restaurants-in-palm-bay-melbourne-titusville-metro-florida-us-sample-571257",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/571257/beamstation_571257_restaurants-us-palmbaymelbournetitusvillefl_SAMPLE_DIST.csv",
+  "sample_pct": 3.02,
+  "sample_records": 25,
+  "sample_sha256": "70b4b62e608ef4fe63441a909a426f843c6cddb79dbabadeca630f636c8c2aad",
+  "sample_size_bytes": 115270,
+  "total_records": 827,
+  "updated_at": "2026-03-31T16:03:58.365284+00:00"
+}
