@@ -1,12 +1,12 @@
 {
-  "export_job_id": "2a04c7c1-cac9-4933-b209-b1a162d33904",
+  "export_job_id": "1aed7105-eddf-414b-90e4-9a5699991366",
   "id_short": 571257,
-  "published_at": "2026-04-13T19:28:43Z",
+  "published_at": "2026-04-17T07:47:34Z",
   "repo_name": "all-restaurants-in-palm-bay-melbourne-titusville-metro-florida-us-sample-571257",
   "sample_asset_name": "beamstation_571257_restaurants-us-palmbaymelbournetitusvillefl_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/571257/beamstation_571257_restaurants-us-palmbaymelbournetitusvillefl_SAMPLE_DIST.csv",
-  "sample_records": 25,
-  "sample_sha256": "70b4b62e608ef4fe63441a909a426f843c6cddb79dbabadeca630f636c8c2aad",
-  "sample_size_bytes": 115270,
-  "total_records": 827
+  "sample_records": 117,
+  "sample_sha256": "f6d681485d1245eb84a916802fd40367febb14309965c43cbf453eededb91774",
+  "sample_size_bytes": 451097,
+  "total_records": 1173
 }
