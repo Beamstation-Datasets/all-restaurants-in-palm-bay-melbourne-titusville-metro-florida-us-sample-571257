@@ -1,6 +1,6 @@
 # All Restaurants in Palm Bay-Melbourne-Titusville (Metro), Florida, US
 
-> Free BeamStation sample export with 121 rows and masked direct-contact fields.
+> Free BeamStation sample export with 127 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `571257` |
 | Location | Palm Bay-Melbourne-Titusville, FL |
 | Category | Restaurants |
-| Full dataset size | 1,211 records |
-| Free sample size | 121 records (9.99%) |
-| Last export | 2026-04-28T19:45:17.637100+00:00 |
+| Full dataset size | 1,270 records |
+| Free sample size | 127 records (10.0%) |
+| Last export | 2026-05-07T08:42:38.993903+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-palm-bay-melbourne-titusville-metro-florida-us-sample-571257/releases/download/sample-latest/beamstation_571257_restaurants-us-palmbaymelbournetitusvillefl_SAMPLE_DIST.csv) |
 
 ## What is in this sample
